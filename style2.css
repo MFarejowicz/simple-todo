@@ -1,45 +1,45 @@
 html {
   margin: 0;
   padding: 0;
-  /* font-family: 'Oswald', sans-serif;
+  font-family: 'Oswald', sans-serif;
   background-color: #7EC0EE;
-  color: white; */
+  color: white;
 }
 
-/* .todoContainer {
+.todoContainer {
   margin: auto;
   text-align: center;
   background-color: rgba(0, 0, 0, 0.6);
   width: 30%;
   min-width: 270px;
   padding: 40px;
-} */
+}
 
-/* .title {
+.title {
   margin: 0;
   font-size: 40px;
   border-bottom: 1px solid #d3d3d3;
-} */
+}
 
-/* #placeholder {
+#placeholder {
   font-size: 20px;
   border-bottom: 1px solid #d3d3d3;
-} */
+}
 
-/* .todoItem {
+.todoItem {
   text-align: left;
   font-size: 20px;
   padding: 0 10px;
   border-bottom: 1px solid #d3d3d3;
   word-wrap: break-word;
-} */
+}
 
-/* .todoItem:hover{
+.todoItem:hover{
   background-color: rgba(169, 169, 169, 0.6);
   color: #000000;
-} */
+}
 
-/* .todoDelete{
+.todoDelete{
   font-family: 'Oswald', sans-serif;
   font-size: 18px;
   background-color: transparent;
@@ -49,13 +49,13 @@ html {
   outline: none;
   clear: both;
   float: right;
-} */
+}
 
-/* .todoDelete:hover{
+.todoDelete:hover{
   color: #FFFFFF;
-} */
+}
 
-/* .inputter {
+.inputter {
   padding-top: 20px;
 }
 
@@ -70,9 +70,9 @@ html {
   padding: 4px 5px;;
   border: 1px solid #ccc;
   border-radius: 4px;
-} */
+}
 
-/* #todoButton {
+#todoButton {
   font-family: 'Oswald', sans-serif;
   width: 15%;
   font-size: 20px;
@@ -82,4 +82,4 @@ html {
   border: none;
   border-radius: 4px;
   cursor: pointer;
-} */
+}
